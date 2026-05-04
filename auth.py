@@ -1,0 +1,1 @@
+Update the get_profile function in auth.py to use parameterized queries. For example: cursor.execute("SELECT * FROM users WHERE id = %s", (user_id,))
